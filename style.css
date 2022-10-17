@@ -1,0 +1,37 @@
+body {
+    background-image: url('./img/fondo.png');
+}
+
+.highlight {
+    background-color: yellow;
+}
+
+.error {
+    background-color: lightcoral;
+    border-color: red;
+}
+
+#contenido {
+    text-align: center;
+    width: 800px;
+    top: auto;
+    margin: 250px;
+}
+
+button {
+    font-size: 15px;
+    /*font-weight: bold;*/
+    background-color: rgb(133, 178, 245);
+    border-width: 1px;
+    border-color: rgb(156, 173, 250);
+    border-radius: 3px;
+    padding-top: 3px;
+    padding-left: 5px;
+    padding-right: 5px;
+    padding-bottom: 3px;
+}
+
+footer {
+    font-size: smaller;
+    text-align: center;
+}
